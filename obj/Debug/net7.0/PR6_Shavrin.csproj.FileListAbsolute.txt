@@ -1,0 +1,14 @@
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\bin\Debug\net7.0\PR6_Shavrin.exe
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\bin\Debug\net7.0\PR6_Shavrin.deps.json
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\bin\Debug\net7.0\PR6_Shavrin.runtimeconfig.json
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\bin\Debug\net7.0\PR6_Shavrin.dll
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\bin\Debug\net7.0\PR6_Shavrin.pdb
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\PR6_Shavrin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\PR6_Shavrin.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\PR6_Shavrin.AssemblyInfo.cs
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\PR6_Shavrin.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\PR6_Shavrin.dll
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\refint\PR6_Shavrin.dll
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\PR6_Shavrin.pdb
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\PR6_Shavrin.genruntimeconfig.cache
+C:\Users\pavel\Desktop\pr6_shavrin_pi-2302\PR6_Shavrin\obj\Debug\net7.0\ref\PR6_Shavrin.dll
