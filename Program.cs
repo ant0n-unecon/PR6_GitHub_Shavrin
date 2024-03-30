@@ -57,6 +57,8 @@ namespace PR6_Shavrin
             double perimeterABD = Perimeter(AB, AD, BD);
             double perimeterACD = Perimeter(AC, AD, CD);
             double perimeterBCD = Perimeter(BC, BD, CD);
+
+            double minPerimeter = Math.Min(Math.Min(perimeterABC, perimeterABD), Math.Min(perimeterACD, perimeterBCD));
             
         }
     }
