@@ -35,34 +35,7 @@ namespace PR6_Shavrin
                     return true; // Points are valid
                 }
             }
-
-            double Distance(int[] point1, int[] point2)
-            {
-                int deltaX = point2[0] - point1[0];
-                int deltaY = point2[1] - point1[1];
-                return Math.Sqrt(deltaX * deltaX + deltaY * deltaY);
-            }
-
-            double AB = Distance(pointA, pointB);
-            double AC = Distance(pointA, pointC);
-            double AD = Distance(pointA, pointD);
-            double BC = Distance(pointB, pointC);
-            double BD = Distance(pointB, pointD);
-            double CD = Distance(pointC, pointD);
-
-            double Perimeter(double a, double b, double c)
-            {
-                return a + b + c;
-            }
-
-            double perimeterABC = Perimeter(AB, AC, BC);
-            double perimeterABD = Perimeter(AB, AD, BD);
-            double perimeterACD = Perimeter(AC, AD, CD);
-            double perimeterBCD = Perimeter(BC, BD, CD);
-
-            double minPerimeter = Math.Min(Math.Min(perimeterABC, perimeterABD), Math.Min(perimeterACD, perimeterBCD));
-
-            Console.WriteLine("Наименьший периметр среди всех возможных треугольников равен: " + minPerimeter);
+            
         }
     }
 }
