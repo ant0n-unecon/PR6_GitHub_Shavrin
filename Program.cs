@@ -47,6 +47,11 @@ namespace PR6_Shavrin
             double BC = Distance(pointB, pointC);
             double BD = Distance(pointB, pointD);
             double CD = Distance(pointC, pointD);
+
+            double Perimeter(double a, double b, double c)
+            {
+                return a + b + c;
+            }
             
         }
     }
