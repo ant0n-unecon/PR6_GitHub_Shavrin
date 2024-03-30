@@ -41,6 +41,12 @@ namespace PR6_Shavrin
                 int deltaY = point2[1] - point1[1];
                 return Math.Sqrt(deltaX * deltaX + deltaY * deltaY);
             }
+            double AB = Distance(pointA, pointB);
+            double AC = Distance(pointA, pointC);
+            double AD = Distance(pointA, pointD);
+            double BC = Distance(pointB, pointC);
+            double BD = Distance(pointB, pointD);
+            double CD = Distance(pointC, pointD);
             
         }
     }
