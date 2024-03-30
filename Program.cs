@@ -60,6 +60,7 @@ namespace PR6_Shavrin
 
             double minPerimeter = Math.Min(Math.Min(perimeterABC, perimeterABD), Math.Min(perimeterACD, perimeterBCD));
             
+            Console.WriteLine("Наименьший периметр среди всех возможных треугольников равен: " + minPerimeter);
         }
     }
 }
