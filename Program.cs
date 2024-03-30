@@ -35,6 +35,12 @@ namespace PR6_Shavrin
                     return true; // Points are valid
                 }
             }
+            double Distance(int[] point1, int[] point2)
+            {
+                int deltaX = point2[0] - point1[0];
+                int deltaY = point2[1] - point1[1];
+                return Math.Sqrt(deltaX * deltaX + deltaY * deltaY);
+            }
             
         }
     }
