@@ -52,6 +52,11 @@ namespace PR6_Shavrin
             {
                 return a + b + c;
             }
+
+            double perimeterABC = Perimeter(AB, AC, BC);
+            double perimeterABD = Perimeter(AB, AD, BD);
+            double perimeterACD = Perimeter(AC, AD, CD);
+            double perimeterBCD = Perimeter(BC, BD, CD);
             
         }
     }
